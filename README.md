@@ -134,7 +134,7 @@ AXIOM·1 is currently in **Private Beta**. The source code is proprietary and no
 **Project:** JamOne - Just automate more.  
 **Founder:** Adnan Schulze-Hüneke  
 **Focus:** Deterministic AI Safety and Verification.  
-**Year:** 2026
+**Year:** 2026 
 
 ---
 
