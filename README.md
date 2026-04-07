@@ -17,6 +17,12 @@
   <strong>Formal constraint verification at 21ms latency. Zero hallucinations. Mathematical proof, not probabilistic inference.</strong>
 </p>
 
+<p align="center">
+  <a href="https://axiom-one.de" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit-Landing_Page-1a1a2e?style=for-the-badge" alt="Landing Page" />
+  </a>
+</p>
+
 ---
 
 ## THE MANIFESTO
@@ -129,11 +135,25 @@ AXIOM·1 is currently in **Private Beta**. The source code is proprietary and no
 
 ---
 
+## 🌐 Landing Page
+
+Experience the full interactive showcase at **[https://axiom-one.de](https://axiom-one.de)**
+
+Features:
+- Live performance benchmarks
+- Interactive scenario lab
+- Bilingual support (EN/DE)
+- Technical deep-dives
+- Private beta access request
+
+---
+
 ### Contact and Strategic Partnerships
 
 **Project:** JamOne - Just automate more.  
 **Founder:** Adnan Schulze-Hüneke  
 **Focus:** Deterministic AI Safety and Verification.  
+**Email:** justautomatemore@gmail.com  
 **Year:** 2026 
 
 ---
